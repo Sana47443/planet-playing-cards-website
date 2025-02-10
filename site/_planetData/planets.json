@@ -1,0 +1,10 @@
+[
+    { "name": "Earth", "au": "1.00" },
+     { "name": "Saturn", "au": "9.58" },
+    { "name": "Mercury", "au": "0.39" },
+    { "name": "Mars", "au": "1.52" },
+    { "name": "Uranus", "au": "19.22" },
+    { "name": "Venus", "au": "0.72" },
+    { "name": "Jupiter", "au": "5.20" },
+    { "name": "Neptune", "au": "30.05" }
+]

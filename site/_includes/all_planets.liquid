@@ -1,0 +1,7 @@
+{% for planet in planets %}
+<div class="card planet {{ planet.name | downcase }}">
+    <div class="planet-circle {{ planet.name | downcase }}"></div>
+    <h3>{{ planet.name }}</h3>
+    <p>{{ planet.au }} AU</p>
+</div>
+{% endfor %}
